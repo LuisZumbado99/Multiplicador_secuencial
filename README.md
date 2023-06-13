@@ -14,7 +14,11 @@ A continuación se muestran los diagramas de bloques de cada subsistema:
 
 1. **Subsistema de lectura de datos:**
 
-<!--...-->
+<p align="center">
+<img src="imagen" alt="texto_alternativo" width="400" height="400">
+</p>
+
+
 
 2. **Subsistema de cálculo de multiplicación:**
 
