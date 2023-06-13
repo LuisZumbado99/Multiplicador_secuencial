@@ -40,4 +40,12 @@ module top #(parameter N=8)(
         .ready(ready)
     );
 
+    display_system subsistemaDisplay (
+        .clk(clk),
+        .rst(rst),
+        .data_in(Y),
+        .seg_out(),
+        .an_out()
+    );
+
 endmodule
