@@ -14,7 +14,11 @@ A continuación se muestran los diagramas de bloques de cada subsistema:
 
 1. **Subsistema de lectura de datos:**
 
-<!--...-->
+<p align="center">
+<img src="imagen" alt="texto_alternativo" width="400" height="400">
+</p>
+
+
 
 2. **Subsistema de cálculo de multiplicación:**
 
@@ -52,5 +56,5 @@ Para más detalles sobre el diseño y la implementación, consulta los archivos 
 
 ## Autores
 
-Este proyecto fue desarrollado por Fiorela Chavarría, Akisha Delgado y Luis Daniel Zumbado como parte del curso de Diseño Lógico del Tecnológico de Costa Rica.
+Este proyecto fue desarrollado por Fiorela Chavarría como parte del curso de Diseño Lógico del Tecnológico de Costa Rica.
 
