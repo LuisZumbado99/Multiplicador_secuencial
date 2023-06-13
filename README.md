@@ -52,5 +52,5 @@ Para más detalles sobre el diseño y la implementación, consulta los archivos 
 
 ## Autores
 
-Este proyecto fue desarrollado por Fiorela Chavarría, Akisha Delgado y Luis Daniel Zumbado como parte del curso de Diseño Lógico del Tecnológico de Costa Rica.
+Este proyecto fue desarrollado por Fiorela Chavarría como parte del curso de Diseño Lógico del Tecnológico de Costa Rica.
 
