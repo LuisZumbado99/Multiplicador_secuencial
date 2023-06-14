@@ -47,7 +47,7 @@ Se han diseñado las siguientes máquinas de estados para controlar el funcionam
 3. **Máquina de estados - Subsistema de despliegue de resultado:**
 
 <p align="center">
-<img src="https://github.com/LuisZumbado99/Multiplicador_secuencial/blob/main/M%C3%A1quinaDespliegue.PNG" alt="texto_alternativo" width="450" height="400">
+<img src="https://github.com/LuisZumbado99/Multiplicador_secuencial/blob/main/M%C3%A1quinaDespliegue.PNG" alt="texto_alternativo" width="500" height="400">
 </p>
 
 ## Simulación funcional
