@@ -26,7 +26,9 @@ module SubSysLecture (
   );
 
   /* Cuatro registros FF: almacenan el estado filtrado del botón
-  después de haber pasado por las etapas antirrebote anteriores */
+  después de haber pasado por las etapas antirrebote anteriores.  
+  Esto permite retrasar la señal filtrada en el tiempo, 
+  asegurando que la salida sea estable y libre de rebotes.*/
   FlipFlopRegister #(8) ff_btn_stages_delayed[3:0] (
     .clk(clk),
     .reset(reset),
