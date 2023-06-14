@@ -18,11 +18,11 @@ A continuación se muestran los diagramas de bloques de cada subsistema:
 <img src="" alt="texto_alternativo" width="450" height="400">
 </p>
 
-
-
 2. **Subsistema de cálculo de multiplicación:**
 
-<!--...-->
+<p align="center">
+<img src="https://github.com/LuisZumbado99/Multiplicador_secuencial/blob/main/DiagramaBloquesMult.PNG" alt="texto_alternativo" width="450" height="400">
+</p>
 
 3. **Subsistema de despliegue de resultado:**
 
