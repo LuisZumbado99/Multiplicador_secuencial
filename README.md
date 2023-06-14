@@ -65,5 +65,5 @@ Durante el desarrollo del proyecto, se encontraron algunos problemas y desafíos
 
 ## Autores
 
-Este proyecto fue desarrollado por Fiorela Chavarría como parte del curso de Diseño Lógico del Tecnológico de Costa Rica.
+Este proyecto fue desarrollado por Fiorela Chavarría, Akisha Delgado y Luis Daniel Zumbado como parte del curso de Diseño Lógico del Tecnológico de Costa Rica.
 
