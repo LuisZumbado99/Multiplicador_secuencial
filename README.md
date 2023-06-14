@@ -58,11 +58,10 @@ Se ha realizado una simulación funcional del sistema completo para verificar su
 
 Se ha realizado un análisis del consumo de recursos en la FPGA utilizado por el circuito. Se han medido los recursos utilizados, como LUTs, FFs, y otros elementos lógicos, así como el consumo de potencia reportado por la herramienta Vivado.-->
 
-## Problemas encontrados y soluciones aplicadas
+<!--## Problemas encontrados y soluciones aplicadas
 
-<!--Durante el desarrollo del proyecto, se encontraron algunos problemas y desafíos. Algunos de ellos incluyeron la sincronización adecuada de las señales de entrada, la implementación correcta del algoritmo de Booth y el control preciso del despliegue de los resultados en el display de 7 segmentos. Se detallan los problemas encontrados y las soluciones aplicadas en el archivo `problems_and_solutions.txt`.-->
+Durante el desarrollo del proyecto, se encontraron algunos problemas y desafíos. Algunos de ellos incluyeron la sincronización adecuada de las señales de entrada, la implementación correcta del algoritmo de Booth y el control preciso del despliegue de los resultados en el display de 7 segmentos. Se detallan los problemas encontrados y las soluciones aplicadas en el archivo `problems_and_solutions.txt`.-->
 
-Para más detalles sobre el diseño y la implementación, consulta los archivos y documentos incluidos en este repositorio.
 
 ## Autores
 
