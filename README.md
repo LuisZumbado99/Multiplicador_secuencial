@@ -15,7 +15,7 @@ A continuación se muestran los diagramas de bloques de cada subsistema:
 1. **Subsistema de lectura de datos:**
 
 <p align="center">
-<img src="https://github.com/LuisZumbado99/Multiplicador_secuencial/blob/main/DiagramaSistemaLectura.PNG" alt="texto_alternativo" width="450" height="400">
+<img src="" alt="texto_alternativo" width="450" height="400">
 </p>
 
 
@@ -32,13 +32,23 @@ A continuación se muestran los diagramas de bloques de cada subsistema:
 
 Se han diseñado las siguientes máquinas de estados para controlar el funcionamiento del circuito:
 
-1. **Máquina de estados - Subsistema de cálculo de multiplicación:**
+1. **Diagrama de estados - Subsistema de lectura:**
 
-<!--...-->
+<p align="center">
+<img src="https://github.com/LuisZumbado99/Multiplicador_secuencial/blob/main/DiagramaSistemaLectura.PNG" alt="texto_alternativo" width="450" height="400">
+</p>
 
-2. **Máquina de estados - Subsistema de despliegue de resultado:**
+2. **Máquina de estados - Subsistema de cálculo de multiplicación:**
 
-<!--...-->
+<p align="center">
+<img src="https://github.com/LuisZumbado99/Multiplicador_secuencial/blob/main/M%C3%A1quinaMult.PNG" alt="texto_alternativo" width="450" height="400">
+</p>
+
+3. **Máquina de estados - Subsistema de despliegue de resultado:**
+
+<p align="center">
+<img src="https://github.com/LuisZumbado99/Multiplicador_secuencial/blob/main/M%C3%A1quinaDespliegue.PNG" alt="texto_alternativo" width="450" height="400">
+</p>
 
 ## Simulación funcional
 
