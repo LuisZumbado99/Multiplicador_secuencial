@@ -35,7 +35,7 @@ Se han diseñado las siguientes máquinas de estados para controlar el funcionam
 1. **Diagrama de estados - Subsistema de lectura:**
 
 <p align="center">
-<img src="https://github.com/LuisZumbado99/Multiplicador_secuencial/blob/main/DiagramaSistemaLectura.PNG" alt="texto_alternativo" width="450" height="400">
+<img src="https://github.com/LuisZumbado99/Multiplicador_secuencial/blob/main/DiagramaSistemaLectura.PNG" alt="texto_alternativo" width="600" height="400">
 </p>
 
 2. **Máquina de estados - Subsistema de cálculo de multiplicación:**
