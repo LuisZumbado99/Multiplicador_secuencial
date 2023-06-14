@@ -50,7 +50,7 @@ Se han diseñado las siguientes máquinas de estados para controlar el funcionam
 <img src="https://github.com/LuisZumbado99/Multiplicador_secuencial/blob/main/M%C3%A1quinaDespliegue.PNG" alt="texto_alternativo" width="500" height="400">
 </p>
 
-## Simulación funcional
+<!--## Simulación funcional
 
 Se ha realizado una simulación funcional del sistema completo para verificar su correcto funcionamiento. La simulación abarca desde la entrada de los operandos hasta el manejo de los 7 segmentos para mostrar el resultado.
 
